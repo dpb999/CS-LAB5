@@ -1,0 +1,89 @@
+.box{
+    background-color: aqua;
+    height: 200px;
+    width: 300px;
+}
+
+.responsive-box{
+    background-color: blueviolet;
+    width: 50%;
+    height: 50%;
+}
+
+.padded-text{
+    background-color: bisque;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.custom-padding{
+    background-color: cadetblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20pxs;
+}
+
+.border-box{
+    background-color: chartreuse;
+    border: solid black 2px;
+}
+
+.rounded-border{
+    background-color: bisque;
+    border: dotted red 3px;
+    border-radius: 15px;
+}
+
+.margin-text{
+    background-color: cadetblue;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.custom-margin{
+    background-color: cornflowerblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.inline-element{
+    display: inline;
+    background-color: darkcyan;
+}
+
+.block-element{
+    display: inline-block;
+    background-color: blue;
+}
+
+.inline-block-element{
+    display: inline-block;
+    background-color: crimson;
+}
+
+.hidden-element{
+    display: none;
+    background-color: aquamarine;
+}
+
+.visable-element{
+    background-color: blueviolet;
+    visibility: visible;
+}
+
+.invisible-element{
+    background-color: beige;
+    visibility: hidden;
+}
+
+.transparent-box{
+    background-color: blue;
+    opacity: 0.5;
+}
